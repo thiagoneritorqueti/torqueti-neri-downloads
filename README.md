@@ -8,7 +8,7 @@ Aplicativo de suporte remoto da empresa, baseado no RustDesk Open Source, com se
 
 | Seu computador | Download direto |
 | --- | --- |
-| Windows 64 bits | Em compilação |
+| Windows 64 bits | [Baixar para Windows](https://github.com/thiagoneritorqueti/torqueti-neri-downloads/releases/latest/download/TorquetiNeri-Windows.exe) |
 | Mac com chip Apple — M1, M2, M3 e posteriores | [Baixar para Mac Apple Silicon](https://github.com/thiagoneritorqueti/torqueti-neri-downloads/releases/latest/download/TorquetiNeri-Mac-Apple-Silicon.dmg) |
 | Mac com processador Intel | [Baixar para Mac Intel](https://github.com/thiagoneritorqueti/torqueti-neri-downloads/releases/latest/download/TorquetiNeri-Mac-Intel.dmg) |
 
