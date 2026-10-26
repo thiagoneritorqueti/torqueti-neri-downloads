@@ -4,15 +4,13 @@
 
 Aplicativo de suporte remoto da empresa, baseado no RustDesk Open Source, com servidor próprio já configurado. O atendimento exige **ID e clique em Aceitar** no computador atendido.
 
-**Disponível agora: Mac Apple Silicon.** Windows e Mac Intel ainda estão compilando.
-
 ## Baixar o aplicativo
 
 | Seu computador | Download direto |
 | --- | --- |
 | Windows 64 bits | Em compilação |
 | Mac com chip Apple — M1, M2, M3 e posteriores | [Baixar para Mac Apple Silicon](https://github.com/thiagoneritorqueti/torqueti-neri-downloads/releases/latest/download/TorquetiNeri-Mac-Apple-Silicon.dmg) |
-| Mac com processador Intel | Em compilação |
+| Mac com processador Intel | [Baixar para Mac Intel](https://github.com/thiagoneritorqueti/torqueti-neri-downloads/releases/latest/download/TorquetiNeri-Mac-Intel.dmg) |
 
 No Mac, consulte o menu Apple → **Sobre Este Mac** para identificar o processador.
 
